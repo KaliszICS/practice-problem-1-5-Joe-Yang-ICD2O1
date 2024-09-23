@@ -1,3 +1,9 @@
+'''
+    Lesson: Typecasting
+    Author: Joe Yang
+    Date Created: Sept 23, 2024
+    Date Last Modified: Sept 23, 2024
+'''
 
 def q1():
   #Write Assignment code here
